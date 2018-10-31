@@ -1,5 +1,5 @@
 const assert = require('assert');
-const is = require('../script.js');
+const is = require('../is.js');
 
 describe('isString', function () {
     it('should return true I passed it a String value as a paremeter', () =>
